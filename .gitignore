@@ -13,3 +13,11 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Skill local state — never commit
+skill/identity.pem
+*.pem
+*.key
+passphrase*.txt
+cred.xml
+evidence.md
